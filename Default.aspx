@@ -15,7 +15,7 @@
     <!-- Main content -->
     <section class="content">
 
-      <!-- Your Page Content Herefff-->
+      <!-- Your Page Content Here-->
         <div class="row">
         <div class="col-lg-3 col-xs-6">
           <!-- small box -->
